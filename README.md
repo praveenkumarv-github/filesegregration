@@ -24,7 +24,7 @@ segregate according to file extensions
     *   format_pattern_py 	 '.py$'
 
 
-abspath = input("Give the path from which extraction should  start == ",)
+abspath = input("Give the path from which extraction should   start == ",)
 
 ###for example :
 
