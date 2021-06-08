@@ -21,7 +21,7 @@ segregate according to file extensions
     
     >*   format_pattern_mp4 	 '.mp4$'
     
-    >*   format_pattern_py 	 '.py$'
+    >*   format_pattern_py 	   '.py$'
 
 
 abspath = input("Give the path from which extraction should   start == ",)
