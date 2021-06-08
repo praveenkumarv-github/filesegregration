@@ -7,7 +7,7 @@ Python version : Python2.7
 
 Dependencies(local) : 
 
-  shutil(File operation module)
+  *shutil(File operation module)
 
 
 
