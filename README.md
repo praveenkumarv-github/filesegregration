@@ -28,7 +28,7 @@ abspath = input("Give the path from which extraction should   start == ",)
 
 ###for example :
 
-# abspath =  "K:\\miNote5bachkup30dec2019\\"
+# abspath =  "K:\\path\\to\\the\\file\\"
 
 
 Note : Change or customize the Destination path for every _IF_ loop.
